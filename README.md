@@ -1,4 +1,4 @@
-# Deep Image Steganography using Stable Diffusion
+# LatentHide : Deep Image Steganography using Stable Diffusion
 An efficient image steganography system implementing alpha blending techniques with Stable Diffusion infrastructure to embed secret images within cover images while maintaining high visual fidelity.
 
 This project implements a practical steganography framework that uses mathematical alpha blending to hide secret images within cover images. Leveraging Stable Diffusion's preprocessing pipeline and PyTorch tensor operations, the system achieves near-perfect reconstruction with SSIM scores ranging from 0.9644 to 0.9982, demonstrating robust performance while maintaining computational efficiency.
